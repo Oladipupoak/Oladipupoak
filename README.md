@@ -3,7 +3,7 @@
 
 
 
-## I'm an aspring frontend engineer and designer!
+## I'm an aspiring frontend engineer and designer!
 
 - 🌱 I’m currently learning Data Structures and algorithms 
 - 👯 I’m currently working on CareerWise and a few other projects
@@ -12,14 +12,14 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Michaelakinyan?t=aa_rE26GNqZVG9MkGhUKZw&s=09#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Michaelakinyan?t=aa_rE26GNqZVG9MkGhUKZw&s=09#gh-dark-mode-only)
+(./img/twitter-light.svg)(https://twitter.com/Michaelakinyan?t=aa_rE26GNqZVG9MkGhUKZw&s=09#gh-light-mode-only)
+(./img/twitter-dark.svg) (https://twitter.com/Michaelakinyan?t=aa_rE26GNqZVG9MkGhUKZw&s=09#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/oladipupo-akinyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/oladipupo-akinyan#gh-dark-mode-only)
+(./img/linkedin-light.svg) (www.linkedin.com/in/oladipupo-akinyan#gh-light-mode-only)
+(./img/linkedin-dark.svg) (www.linkedin.com/in/oladipupo-akinyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_michael.dev?igshid=ZDdkNTZiNTM=#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_michael.dev?igshid=ZDdkNTZiNTM=#gh-dark-mode-only)
+(./img/instagram-light.svg) (https://instagram.com/_michael.dev?igshid=ZDdkNTZiNTM=#gh-light-mode-only)
+(./img/instagram-dark.svg) (https://instagram.com/_michael.dev?igshid=ZDdkNTZiNTM=#gh-dark-mode-only)
 
 ### Languages and Tools:
 
