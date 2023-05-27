@@ -3,10 +3,12 @@
 
 
 
-## I'm a full stack engineer,web developer and designer!
+## I'm a full stack engineer, web developer and product designer!
 
 
 - 🌱 I’m currently learning Data Structures and algorithms,JavaScript, React.js and Node.js
+<br>
+
 -👯 I’m currently working on CareerWise and a few other projects
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer and Web Developer (Intern or Junior level).
