@@ -7,6 +7,7 @@
 
 
 - 🌱 I’m currently learning Data Structures and algorithms,JavaScript, React.js and Node.js
+- 👯 I’m currently working on CareerWise and a few other projects
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer and Web Developer (Intern or Junior level).
 - 🥅 2023 Goals: Improve my skills and build more projects 
