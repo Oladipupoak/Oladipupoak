@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Data Structures and algorithms 
 - 👯 I’m currently working on CareerWise and a few other projects
 - 🥅 2023 Goals: Improve my skills and build more projects 
-- ⚡ Fun fact: I love to listen to music a lot and play games
+- ⚡ Fun fact: I love to keeping streaks!
 
 ### Connect with me:
 
@@ -27,15 +27,13 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Oladipupoak)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Oladipupoak&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
