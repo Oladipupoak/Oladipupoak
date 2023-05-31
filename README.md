@@ -14,9 +14,16 @@
 - ⚡ Fun fact: I love to keep streaks!
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/oladipupo-akinyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Modupe Akanni" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_michael.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adegoke_akanni" height="30" width="40" /></a>
-<a href="https://twitter.com/Michaelakinyan" target="blank"><img align="center" alt="goke twitter" width="40" height="40" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" /></a>
+
+<a href="https://twitter.com/Michaelakinyan" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/oladipupo-akinyan/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:oladipupoakinyan@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 <br>
 <br>
@@ -35,10 +42,9 @@
 ### Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Oladipupoak&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
+  <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Oladipupoak&hide=&theme=tokyonight"> -->
+
 
 ---
 
 
-[twitter]: https://twitter.com/Michaelakinyan?t=aa_rE26GNqZVG9MkGhUKZw&s=09
-[instagram]: https://instagram.com/_michael.dev?igshid=ZDdkNTZiNTM=
-[linkedin]: www.linkedin.com/in/oladipupo-akinyan
