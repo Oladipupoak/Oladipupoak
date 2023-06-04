@@ -3,7 +3,7 @@
 
 
 
-## I'm a full stack engineer, web developer and product designer!
+## I'm a Front-end engineer, web developer and product designer!
 
 
 - 🌱 I’m currently learning Data Structures and algorithms,JavaScript, React.js and Node.js
