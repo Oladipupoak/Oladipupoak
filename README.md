@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++I'm+a+Front-end+engineer+and+web+developer+🧑‍💻)](https://git.io/typing-svg)
 
 
-# <a href="https://github.com/Oladipupoak"><img src="https://plus.unsplash.com/premium_photo-1664543649372-6e2ec0e0bfff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0M3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60" width="200px" height="200px" alt="Leaf"></a> How do you do? I’m Oladipupo Akinyan ⚡
+# <a href="https://github.com/Oladipupoak"> How do you do? I’m Oladipupo Akinyan ⚡
 
 💻 Labs Intern @ CodeDay Labs || CS @ Kibo School of Technology || Frontend Web Dev
 
