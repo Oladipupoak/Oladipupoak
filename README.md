@@ -9,14 +9,14 @@
 
 # <a href="https://github.com/Oladipupoak"> How do you do? I’m Oladipupo Akinyan ⚡
 
-💻 Labs Intern @ CodeDay Labs || CS @ Kibo School of Technology || Frontend Web Dev
+💻 Software Developer Intern @ Mysogi ads || CS @ Kibo School of Technology || Frontend Web Dev
 
 
 
-- 🌱 I’m currently learning the Scrimba frontend career path.
-- 👯 I’m currently working on CareerWise and a few other projects
+- 🌱 I’m currently learning the Scrimba frontend career path and React-native.
+- 👯 I’m working on Mysogi Mobile App and other personal projects.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer, and Web Developer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front-end Engineer, and Mobile Developer(Junior or Entry-level positions)
 - 🥅 2023 Goals: Improve my skills and build more projects 
 - ⚡ Fun fact: I love to keep streaks!
 ## 🌐 Socials:
