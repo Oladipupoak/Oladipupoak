@@ -4,19 +4,19 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hi!+there+I'm+Oladipupo+Akinyan+🕸️)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++I'm+a+Front-end+engineer+and+web+developer+🧑‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++I'm+a+Mobile+developer+🧑‍💻)](https://git.io/typing-svg)
 
 
 # <a href="https://github.com/Oladipupoak"> How do you do? I’m Oladipupo Akinyan ⚡
 
-💻 Software Developer Intern @ Mysogi ads || CS @ Kibo School of Technology || Frontend Web Dev
+💻 Software Developer Intern @ Mysogi ads || Mobile Developer @ AltPay || CS student @ Kibo School of Technology
 
 
 
-- 🌱 I’m currently learning the Scrimba frontend career path and React-native.
+- 🌱 I’m currently learning React-native.
 - 👯 I’m working on Mysogi Mobile App and other personal projects.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer, and Mobile Developer(Junior or Entry-level positions)
+- 💼 Job interests: Software Engineer and Mobile Developer(Junior or Entry-level positions)
 - 🥅 2023 Goals: Improve my skills and build more projects 
 - ⚡ Fun fact: I love to keep streaks!
 ## 🌐 Socials:
