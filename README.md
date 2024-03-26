@@ -7,12 +7,12 @@
 
 # <a href="https://github.com/Oladipupoak"> How do you do? I’m Oladipupo Akinyan ⚡
 
-💻 Software Developer Intern @ Mysogi ads || Mobile Developer @ AltPay || CS student @ Kibo School of Technology
+💻 CS student @ Kibo School of Technology
 
 
 
 - 🔭 I’m currently working on my **BSc in Computer Science**
-- 👯 I’m working on Mysogi Mobile App and other personal projects.
+- 👯 I’m working on personal projects.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer and Mobile Developer(Junior or Entry-level positions)
 - 📫 How to reach me **oladipupoakinyan@gmail.com**
