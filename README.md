@@ -7,11 +7,9 @@
 
 # <a href="https://github.com/Oladipupoak"> How do you do? I’m Oladipupo Akinyan ⚡
 
-💻 CS student @ Kibo School of Technology
 
 
 
-- 🔭 I’m currently working on my **BSc in Computer Science**
 - 👯 I’m working on the Glidee mobile app & other personal projects.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer and Mobile Developer(Junior or Entry-level positions)
