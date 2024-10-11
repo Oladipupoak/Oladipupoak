@@ -12,7 +12,7 @@
 
 - 👯 I’m working on the Glidee mobile app & other personal projects.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer and Mobile Developer(Junior or Entry-level positions)
+- 💼 Job interests: Backend Developer and Mobile Developer(Junior or Entry-level positions)
 - 📫 How to reach me **oladipupoakinyan@gmail.com**
 - ⚡ Fun fact: I love to keep streaks!
 ## 🌐 Socials:
