@@ -10,7 +10,7 @@
 
 
 
-- 👯 I’m working.
+- 👯 I’m working @ ThreeSigmaTech.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Developer and Mobile Developer(Junior or Entry-level positions)
 - 📫 How to reach me **oladipupoakinyan@gmail.com**
