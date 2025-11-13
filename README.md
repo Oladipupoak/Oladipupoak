@@ -2,7 +2,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hi!+there+I'm+Oladipupo+Akinyan+🕸️)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++I'm+a+Mobile+developer+🧑‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++I'm+a+Software+developer+🧑‍💻)](https://git.io/typing-svg)
 
 
 # <a href="https://github.com/Oladipupoak"> How do you do? I’m Oladipupo Akinyan ⚡
