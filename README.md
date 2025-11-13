@@ -11,12 +11,12 @@
 
 
 - 👯 I’m working @ ThreeSigmaTech.
-<!--- 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities. -->
 - 💼 Job interests:  Mobile and Backend developer (Junior or Entry-level positions)
 - 📫 How to reach me **oladipupoakinyan@gmail.com**
 - ⚡ Fun fact: I love to keep streaks!
 ## 🌐 Socials:
 
+<!--- 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities. -->
 
 <a href="https://twitter.com/Michaelakinyan" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
