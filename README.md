@@ -5,13 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++I'm+a+Software+developer+🧑‍💻)](https://git.io/typing-svg)
 
 
-# <a href="https://github.com/Oladipupoak"> How do you do? I’m Oladipupo Akinyan ⚡
 
 
-
-
-- 👯 I’m working @ ThreeSigmaTech.
-- 💼 Job interests:  Mobile and Backend developer (Junior or Entry-level positions)
+- 👯 I’m working @ <a href="https://3sigmatech.com"> ThreeSigmaTech
+- 💼 Job interests:  Software Engineering roles (Mobile/Backend)
 - 📫 How to reach me **oladipupoakinyan@gmail.com**
 - ⚡ Fun fact: I love to keep streaks!
 ## 🌐 Socials:
