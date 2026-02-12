@@ -10,7 +10,6 @@
 - 👯 I’m working @ <a href="https://3sigmatech.com"> ThreeSigmaTech
 - 💼 Job interests:  Software Engineering roles (Mobile/Backend)
 - 📫 How to reach me **oladipupoakinyan@gmail.com**
-- ⚡ Fun fact: I love to keep streaks!
 ## 🌐 Socials:
 
 <!--- 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities. -->
